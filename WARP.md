@@ -1,7 +1,4 @@
 # Web.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Repository overview
 
 - This repository is named `JawadKT.github.io` and is intended as a personal website.
